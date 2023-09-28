@@ -15,7 +15,7 @@ To run this web application locally, follow these steps:
 
 **Clone this repository to your local machine:**
 ```
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Mandyiee/eden-imgformatter.git
 ```
 
 - **Create a virtual environment and activate:**
